@@ -1,4 +1,7 @@
 ;program: get 10 character and print out all charaters that's ascii number has all even digits
+;=================================================================================================
+;Full-name: LE DANG MINH KHOI
+;Student's ID: 20127213
 .model small
 .stack 100h
 .data 
