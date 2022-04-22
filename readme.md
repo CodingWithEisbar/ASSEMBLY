@@ -5,7 +5,7 @@ Còn đối với những chương trình trong thư mục Release thì giảng 
 
 ### <span style="color:green">Đối với các mã nguồn assembly TASM</span>
 Với các chương trình:
-* Kiểm tra mã kí tự toàn số chẵn
+* Kiểm tra mã ký tự toàn số chẵn
 * Kiểm tra mã ký tự toàn số lẻ
 * Kiểm tra mã ký tự có phải là số chính phương
 
